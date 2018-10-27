@@ -10,6 +10,7 @@ Group members –
 
 ## SUMMARY
 Humber Arboretum needs a mobile app to display, in real time, the appearance, temperature, humidity, and soil moisture of the plants in its nursery. Through our app, employees can view these measurements online. The system will help employees check the health of their habitat in real time and share this information on social media. 
+
 ## TECHNICAL DESCRIPTION 
 Our app provides the temperature, humidity and soil moisture levels of the plants. Also, it allows staff to visually inspect the plants and monitor these parameters online. 
 Our app will obtain data using a Chirp! water sensor, a SHT31 humidity temperature sensor and an OLED display. During testing, we will use simulated data for these inputs in the app’s database. 
@@ -25,6 +26,7 @@ Divya: Menu Bar and real time monitoring.
 ## ESTIMATED TIME
 Our initial estimate is that this will take 100 hours to develop, test and launch. We estimate that the project will be completed by 1st December.
 We are using agile methodology to finish this project on time. So if there is any delay, we will try to catch up as per our schedule. One of us will start working on real time monitoring while others will be simultaneously working on the other parts of the 	project.
+
 ## REFERENCE APP STORE PRODUCTS
 Smart watering: This app does not provide real time monitoring feature whereas our app does.
 	https://play.google.com/store/apps/details?id=zexal.org.smartwatering
@@ -44,7 +46,8 @@ Test Case 2: Uploading the saved picture to your social media account.
 Test Case 3: Clicking the picture and if require then deleting it right away.
 
 ## CONCLUSION
-       Our app “Real Time Arboretum Monitoring” will display temperature, humidity and soil      moisture levels of the plant which will help to know about their growth in a better way.     Moreover, it will also help Humber arboretum employees to inspect plants health visually. As per its name, this app contains a special feature which further allows staff members to upload pictures on any social media site which will prove profitable to plant lovers.
+Our app “Real Time Arboretum Monitoring” will display temperature, humidity and soil moisture levels of the plant which will help to know about their growth in a better way.     Moreover, it will also help Humber arboretum employees to inspect plants health visually. As per its name, this app contains a special feature which further allows staff members to upload pictures on any social media site which will prove profitable to plant lovers.
+
 ## REFERENCE
 Humber Arboretum:  http://humber.ca/arboretum/learn.html
 
